@@ -4,9 +4,9 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#telas do sistema">Telas do sistema</a> •
+ <a href="#telas">Telas</a> •
  <a href="#tecnologias">Tecnologias</a> •  
- <a href="#como executar">Como executar</a> •  
+ <a href="#executar">Executar</a> •  
  <a href="#autor">Autor</a>
 </p>
 
@@ -16,7 +16,7 @@
   Projeto desenvolvido na #4 Next Level Week (NLW) na trilha de ReackJS pela <a href="https://app.rocketseat.com.br/dashboard">Rocketseat</a>
 </h4>
 
-## Telas do sistema
+## Telas
 
 <img src="/public/prints/home.png" width="700px;">
 <img src="/public/prints/countdown-init.png" width="700px;">
@@ -32,7 +32,7 @@
 - [React.js](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
 
-## Como executar
+## Executar
 
 ```bash
 # Faça o clone deste repositório para qualquer pasta de sua preferencia
