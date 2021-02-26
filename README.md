@@ -43,4 +43,6 @@
 
 2. Execute `npm install` ou `yarn` no terminal para instalar as dependências deste projeto.
 
-3. Execute `npm start` ou `yarn dev` para iniciar a aplicação. Abra o navegador em (**http://localhost:3000/**)
+3. Execute `npm start` ou `yarn dev` para iniciar a aplicação.
+
+<img src="/public/prints/home.png">
