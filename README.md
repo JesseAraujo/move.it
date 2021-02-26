@@ -4,14 +4,13 @@
 
 <p align="center">
  <a href="#objetivo">Sobre</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
+ <a href="#telas">Tela do sistema</a> •
+ <a href="#tecnologias">Tecnologias</a> •  
+ <a href="#install">Como executar</a> •  
  <a href="#autor">Autor</a>
 </p>
 
-<h3 align="center">
-  Sobre
-</h3>
+## Sobre
 
 <h4 align="center">
   Projeto desenvolvido na #4 Next Level Week (NLW) na trilha de ReackJS pela <a href="https://app.rocketseat.com.br/dashboard">Rocketseat</a>
@@ -19,21 +18,21 @@
 
 ## Telas do sistema
 
-<img src="/public/prints/home.png">
-<img src="/public/prints/countdown-init.png">
-<img src="/public/prints/challenge.png">
-<img src="/public/prints/levelup.png">
-<img src="/public/prints/levelup2.png">
+<img src="/public/prints/home.png" width="300px;">
+<img src="/public/prints/countdown-init.png" width="300px;">
+<img src="/public/prints/challenge.png" width="300px;">
+<img src="/public/prints/levelup.png" width="300px;">
+<img src="/public/prints/levelup2.png" width="300px;">
 
 ---
 
-## :rainbow: Tecnologias usadas nessa aplicação
+## Tecnologias
 
 - [Typescript](https://www.typescriptlang.org/)
 - [React.js](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
 
-## :tada: Como executar
+## Como executar
 
 ```bash
 # Faça o clone deste repositório para qualquer pasta de sua preferencia
@@ -52,7 +51,6 @@ $ yarn dev || npm run dev
  <br />
 Feito com amor e dedicação por **Jessé Brisola de Araujo** Entre em contato!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/diegohfcelestino)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ferreira-34b6348b/)](https://www.linkedin.com/in/diego-ferreira-34b6348b/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/JesseAraujo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ferreira-34b6348b/)](https://www.linkedin.com/in/jesse-brisola-de-araujo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5514996247077&text=Hello!)](https://api.whatsapp.com/send?phone=+5514996247077&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegohfcelestino@gmail.com)](mailto:diegohfcelestino@gmail.com)
