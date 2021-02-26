@@ -1,5 +1,5 @@
 <h2 align="center">
-  Interlayer-next - Semana NLW na Trilha ReactJS da RocketSeat
+  MOVE IT
 </h2>
 
 <p align="center">
