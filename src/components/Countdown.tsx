@@ -3,7 +3,7 @@ import { CountdownContext } from '../contexts/CountdownContext'
 import styles from '../styles/components/Countdown.module.css'
 
 export function Countdown() {
-    const { minutes, seconds, hasFinished, isActive, startCountdown, resetcountdown } = useContext(CountdownContext)
+    const { minutes, seconds, hasFinished, isActive, startCountdown, resetCountdown } = useContext(CountdownContext)
 
     const [minutesLeft, minutesRight] = String(minutes).padStart(2, '0').split('')
     const [secondsLeft, secondsRight] = String(seconds).padStart(2, '0').split('')
@@ -34,7 +34,7 @@ export function Countdown() {
                     <>
                         {isActive ? (
                             <button
-                                onClick={resetcountdown}
+                                onClick={resetCountdown}
                                 type="button"
                                 className={`${styles.countdownButton} ${styles.countdownButtonActive}`}
                             >
