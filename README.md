@@ -3,10 +3,10 @@
 </h2>
 
 <p align="center">
- <a href="#objetivo">Sobre</a> •
- <a href="#telas">Tela do sistema</a> •
+ <a href="#sobre">Sobre</a> •
+ <a href="#telas do sistema">Telas do sistema</a> •
  <a href="#tecnologias">Tecnologias</a> •  
- <a href="#install">Como executar</a> •  
+ <a href="#como executar">Como executar</a> •  
  <a href="#autor">Autor</a>
 </p>
 
@@ -18,11 +18,11 @@
 
 ## Telas do sistema
 
-<img src="/public/prints/home.png" width="500px;" align="center">
-<img src="/public/prints/countdown-init.png" width="500px;" align="center">
-<img src="/public/prints/challenge.png" width="500px;" align="center">
-<img src="/public/prints/levelup.png" width="500px;" align="center">
-<img src="/public/prints/levelup2.png" width="500px;" align="center">
+<img src="/public/prints/home.png" width="700px;">
+<img src="/public/prints/countdown-init.png" width="700px;">
+<img src="/public/prints/challenge.png" width="700px;">
+<img src="/public/prints/levelup.png" width="700px;">
+<img src="/public/prints/levelup2.png" width="700px;">
 
 ---
 
