@@ -18,11 +18,11 @@
 
 ## Telas do sistema
 
-<img src="/public/prints/home.png" width="300px;">
-<img src="/public/prints/countdown-init.png" width="300px;">
-<img src="/public/prints/challenge.png" width="300px;">
-<img src="/public/prints/levelup.png" width="300px;">
-<img src="/public/prints/levelup2.png" width="300px;">
+<img src="/public/prints/home.png" width="500px;" align="center">
+<img src="/public/prints/countdown-init.png" width="500px;" align="center">
+<img src="/public/prints/challenge.png" width="500px;" align="center">
+<img src="/public/prints/levelup.png" width="500px;" align="center">
+<img src="/public/prints/levelup2.png" width="500px;" align="center">
 
 ---
 
